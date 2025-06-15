@@ -41,12 +41,7 @@ Studies show that **interactive learning boosts engagement by up to 60%** compar
 By turning space education into a **game**, we make it **cool, accessible, and unforgettable**.  
 
 **_"The universe is meant to be explored—not just studied."_** ✨  
-
-## 👨‍🚀 Team & Credits  
-- **Project Lead:** [Your Name]  
-- **Developers:** [Team Members]  
-- **Design & Animations:** [Team Members]  
-- **Special Thanks:** Stellar Gateway Hackathon  
+ 
 
 ## 📜 License  
 This project is licensed under **MIT License**.  
