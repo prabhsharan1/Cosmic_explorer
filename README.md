@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# 🌌 Cosmic Explorer 🚀  
+**Making Space Learning Fun Through Interactive Gameplay**  
 
-## Project info
+## 📌 About the Project  
+**Cosmic Explorer** transforms **solar system education** into a **fun and immersive adventure**! Instead of reading dense textbooks, players can **travel to planets**, **complete missions**, and **unlock fascinating space facts**—all while **engaging with stunning visuals and animations**.
 
-**URL**: https://lovable.dev/projects/94b2588f-92f2-40c8-9759-10540fab9dfd
+🔭 **Bridging the gap between gaming and education**  
+🪐 **Explore planets & complete interactive missions**  
+🎮 **Learn through play, not passive reading**  
+🌠 **Includes long-lost Pluto for nostalgia & completeness**  
 
-## How can I edit this code?
+Check out our demo video **[here](https://youtu.be/7UA1EOP8E6Y)**! 🎥  
 
-There are several ways of editing your application.
+## 🎮 Features  
+✅ **Mission-based gameplay** – Travel across the solar system!  
+✅ **Fun rewards & animations** – Keep players engaged & curious.  
+✅ **Gamified learning** – Making science exciting!  
+✅ **Solar system adventure** – More than just reading facts, **experience them!**  
 
-**Use Lovable**
+## 📖 How It Works  
+1️⃣ **Choose a planet** and begin your mission.  
+2️⃣ **Complete challenges** to explore its unique environment.  
+3️⃣ **Unlock fun facts** as a reward for your progress.  
+4️⃣ **Engage with interactive visuals** for a dynamic learning experience.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/94b2588f-92f2-40c8-9759-10540fab9dfd) and start prompting.
+## 🔧 Installation  
+To run Cosmic Explorer locally:  
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+git clone https://github.com/your-repo/cosmic-explorer.git
+cd cosmic-explorer
+npm install
+npm start
 ```
 
-**Edit a file directly in GitHub**
+## 🎥 Demo Video  
+Check out how **Cosmic Explorer** works: [Watch on YouTube 📺](https://youtu.be/7UA1EOP8E6Y)  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🏆 Why It Matters  
+Studies show that **interactive learning boosts engagement by up to 60%** compared to traditional textbooks!  
+By turning space education into a **game**, we make it **cool, accessible, and unforgettable**.  
 
-**Use GitHub Codespaces**
+**_"The universe is meant to be explored—not just studied."_** ✨  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 👨‍🚀 Team & Credits  
+- **Project Lead:** [Your Name]  
+- **Developers:** [Team Members]  
+- **Design & Animations:** [Team Members]  
+- **Special Thanks:** Stellar Gateway Hackathon  
 
-## What technologies are used for this project?
+## 📜 License  
+This project is licensed under **MIT License**.  
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/94b2588f-92f2-40c8-9759-10540fab9dfd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🚀 **Ready to explore the cosmos?** Clone the repo and start your mission!  
