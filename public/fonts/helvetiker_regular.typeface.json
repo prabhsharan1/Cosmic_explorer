@@ -1,0 +1,22 @@
+
+{
+  "glyphs": {},
+  "familyName": "helvetiker",
+  "ascender": 1000,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "xMin": -100,
+    "yMin": -200,
+    "xMax": 1000,
+    "yMax": 1000
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "",
+    "fontFamily": "helvetiker",
+    "fontSubfamily": "Regular"
+  }
+}
